@@ -1,0 +1,6 @@
+MAX_NUM = 10
+    contact = []
+    while True:
+	a = int(input("1.Registration 2.ShowAll 3.Delete 4.FindByBirth 5.Exit)
+	def insert()
+		
